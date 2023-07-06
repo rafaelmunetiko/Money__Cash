@@ -1,0 +1,30 @@
+*{font-family: 'Montserrat', sans-serif;
+}
+
+.corpo{
+    background-color: #62F3CB;
+}
+
+.logo{
+    max-width: 20vw;
+    border-radius: 50%;
+    filter: drop-shadow(2px 5px 5px #33BBBB);
+}
+
+.icon{
+    font-size: 40px;
+}
+
+.links{
+    padding: 10px;
+}
+
+.caixa{
+    padding: 10px;
+    text-align: center;
+}
+
+.pe{
+    padding: 10px;
+    background-color: #33BBBB;
+}
